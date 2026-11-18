@@ -1,5 +1,0 @@
-
-
-
-
-console.log("kunal singh");
